@@ -1,14 +1,14 @@
 {
-    "Group": "Example",
-    "Name": "ExamplePlugin",
-    "Version": "0.0.2",
+    "Group": "Mousemania",
+    "Name": "Template",
+    "Version": "0.0.1",
     "Description": "An example plugin for HyTale!",
     "Authors": [
         {
-            "Name": "It's you!"
+            "Name": "Mousemania"
         }
     ],
-    "Website": "example.org",
+    "Website": "",
     "ServerVersion": "*",
     "Dependencies": {
         
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "org.example.plugin.ExamplePlugin",
+    "Main": "dev.mousemania.template.TemplatePlugin",
     "IncludesAssetPack": true
 }
